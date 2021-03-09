@@ -10,8 +10,8 @@
 module.exports = {
   title: 'FIWL.js',
   tagline: 'Arrange your web app layout as efficiently as possible.',
-  url: 'https://fiwl-js.github.io',
-  baseUrl: '/',
+  url: 'https://weisk.github.io',
+  baseUrl: '/fiwl-js.github.io/',
   onBrokenLinks: 'throw',
   onBrokenMarkdownLinks: 'warn',
   favicon: 'img/favicon.ico',
